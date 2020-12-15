@@ -15,7 +15,7 @@ Este programa foi desenvolvido no intuito de analisar as chances, de maneira pr�
 
 FUNCIONAMENTO DO PROGRAMA
 
-#Ao inciar o programa, será questionado se o usuário deseja utilizar as configurações padrões do programa. Essas configurações são as seguintes:
+# Ao inciar o programa, será questionado se o usuário deseja utilizar as configurações padrões do programa. Essas configurações são as seguintes:
 
 a) Dias entre cada sorteio: 3 dias
 
@@ -47,7 +47,7 @@ k) Número máximo na cartela do sorteio: 60
 
 
 
-#Dentro da estrutura de repetição while, o processo é dividido em 6 etapas:
+# Dentro da estrutura de repetição while, o processo é dividido em 6 etapas:
 
 I) Gerando a sequência ganhadora
 
@@ -83,7 +83,7 @@ This program was developed in order to analyze the chances, in a practical and v
 
 PROGRAM OPERATION
 
-#When starting the program, you will be asked if the user wants to use the program's default settings. These settings are as follows:
+# When starting the program, you will be asked if the user wants to use the program's default settings. These settings are as follows:
 
 a) Days between each raffle: 3 days
 
@@ -111,11 +111,11 @@ k) Maximum number on the raffle card: 60
 
 #If the user refuses to use the default settings, it will be necessary to manually enter the values ​​(the values ​​for items from (a) to (i) must be filled in, items (j) and (k) have remained the same ).
 
-# After defining the control values, the program will enter a loop structure while, which will be interrupted only if the value contained in the money reservation is be equal to or less than 0.
+After defining the control values, the program will enter a loop structure while, which will be interrupted only if the value contained in the money reservation is be equal to or less than 0.
 
 
 
-#Within the repetition structure while, the process is divided into 6 steps:
+# Within the repetition structure while, the process is divided into 6 steps:
 
 I) Generating the winning streak
 
