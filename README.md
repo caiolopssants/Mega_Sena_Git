@@ -115,7 +115,7 @@ After defining the control values, the program will enter a loop structure while
 
 
 
-# Within the repetition structure while, the process is divided into 6 steps:
+# Within the loop structure while, the process is divided into 6 steps:
 
 I) Generating the winning streak
 
