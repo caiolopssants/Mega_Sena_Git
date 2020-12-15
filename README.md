@@ -60,3 +60,71 @@ IV) Verificando se foi o vencedor do sorteio
 V) Ajustando os dias
 
 VI) Mostrando os dados
+
+
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+This program was developed in order to analyze the chances, in a practical and visual way, winning chance in a Brazilian lottery, using as a study model the lottery "Mega Sena", the largest lottery in Brazil.
+
+* This is a program developed as a console application, using a .NET Framework version 4.8 platform, C# programming language and using the Microsoft Visual Studio 2017 development platform. *
+
+* To access the project document for Visual Studio 2017, access the mega_sena.sln file, present at the address Mega_Sena_Git / mega_sena / mega_sena.sln of this git *
+
+* To access the document containing the code of this program, access the Program.cs file, present in the address Mega_Sena_Git / mega_sena / mega_sena / Program.sln of this git *
+
+
+
+
+
+PROGRAM OPERATION
+
+#When starting the program, you will be asked if the user wants to use the program's default settings. These settings are as follows:
+
+a) Days between each raffle: 3 days
+
+b) Price per ticket: R$ 4.50
+
+c) Ticke purchased: 6 tickets
+
+d) Numbers chosen per ticket = 6 numbers
+
+e) Money reservation: R$ 23,000.00
+
+f) Salary: R$ 985.00
+
+
+g) Prize when hitting 6 points: R$ 11323343,69
+
+h) Prize for hitting 5 points: R$ 15,996.75
+
+i) Prize when hitting 4 points: R$ 458.94
+
+
+j) Minimum number on the raffle card: 1
+
+k) Maximum number on the raffle card: 60
+
+#If the user refuses to use the default settings, it will be necessary to manually enter the values ​​(the values ​​for items from (a) to (i) must be filled in, items (j) and (k) have remained the same ).
+
+# After defining the control values, the program will enter a loop structure while, which will be interrupted only if the value contained in the money reservation is be equal to or less than 0.
+
+
+
+#Within the repetition structure while, the process is divided into 6 steps:
+
+I) Generating the winning streak
+
+II) Generating the player sequence
+
+III) Discounting the ticket value
+
+IV) Checking if he was the winner of the draw
+
+V) Adjusting the days
+
+VI) Showing the data
